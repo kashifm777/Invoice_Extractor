@@ -3,6 +3,10 @@
 
 This Streamlit web app leverages Google's GenerativeAI service (Gemini Pro Vision) to extract information from invoices based on user prompts and image analysis.
 
+## Run on Streamlit  
+You can try this app on Streamlit:  
+[YouTube Transcriber](https://youtube-transcriber-mk.streamlit.app)
+
 ### 1. Features:
 
 - **Image Upload:** Upload an invoice image for analysis.
